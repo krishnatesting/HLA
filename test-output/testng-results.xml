@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="34411" started-at="2019-06-18T07:15:46Z" finished-at="2019-06-18T07:16:21Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="34411" started-at="2019-06-18T07:15:46Z" finished-at="2019-06-18T07:16:21Z">
+      <class name="scripts.FlightSearch">
+        <test-method status="PASS" signature="launchbrowser()[pri:0, instance:scripts.FlightSearch@1d119efb]" name="launchbrowser" is-config="true" duration-ms="18699" started-at="2019-06-18T07:15:46Z" finished-at="2019-06-18T07:16:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchbrowser -->
+        <test-method status="PASS" signature="choose_Language()[pri:0, instance:scripts.FlightSearch@1d119efb]" name="choose_Language" duration-ms="5118" started-at="2019-06-18T07:16:05Z" finished-at="2019-06-18T07:16:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- choose_Language -->
+        <test-method status="PASS" signature="search_Oneway()[pri:0, instance:scripts.FlightSearch@1d119efb]" name="search_Oneway" duration-ms="10537" started-at="2019-06-18T07:16:10Z" finished-at="2019-06-18T07:16:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- search_Oneway -->
+      </class> <!-- scripts.FlightSearch -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
